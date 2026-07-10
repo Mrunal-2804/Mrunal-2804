@@ -102,6 +102,42 @@ Cloud-based medical appointment booking application.
 - AWS EC2
 
 ---
+# 🏆 Certifications
+
+<table>
+<tr>
+<td align="center" width="300">
+
+### ☁️ AWS
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+**AWS Cloud Practitioner** *(In Progress / Completed)*
+
+</td>
+
+<td align="center" width="300">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/DevOps-Learning-blue?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+Docker • Kubernetes • Terraform
+
+</td>
+
+<td align="center" width="300">
+
+### 📚 Courses
+
+<img src="https://img.shields.io/badge/AWS_Skill_Builder-Learning-orange?style=for-the-badge"/>
+
+Hands-on Labs & Cloud Learning
+
+</td>
+
+</tr>
+</table>
 
 ---
 
