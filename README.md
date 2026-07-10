@@ -58,18 +58,18 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_VPC-252F3E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VPC-252F3E?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Security%20Groups-232F3E?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elastic_Load_Balancer-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_Systems_Manager-FF9900?style=for-the-badge"/>
 </p>
 
 ---
@@ -103,32 +103,6 @@ Cloud-based medical appointment booking application.
 
 ---
 
-## ☁️ AWS CloudFormation
-
-Infrastructure as Code for AWS resources.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mrunal-2804&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunal-2804&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mrunal-2804&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
@@ -140,15 +114,6 @@ Infrastructure as Code for AWS resources.
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mrunal-2804&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</div>
-
 ---
 
 # 🌐 Connect with Me
