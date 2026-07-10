@@ -102,21 +102,69 @@ Cloud-based medical appointment booking application.
 - AWS EC2
 
 ---
-# 🏆 Certifications
+
+# 🏆 AWS Certifications
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="300">
 
-### ☁️ AWS
+<td align="center" width="250">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="images/aws-cloud-foundations.png" width="120"/>
 
-**AWS Cloud Practitioner** *(In Progress / Completed)*
+### AWS Academy
+**Cloud Foundations**
+
+🎓 Graduate
 
 </td>
 
-<td align="center" width="300">
+<td align="center" width="250">
+
+<img src="images/aws-genai.png" width="120"/>
+
+### AWS Academy
+**Generative AI Foundations**
+
+🤖 Graduate
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="images/cloudquest.png" width="120"/>
+
+### AWS Skill Builder
+
+**Cloud Quest**
+
+Cloud Practitioner
+
+</td>
+
+<td align="center">
+
+<img src="images/aws-summit.png" width="120"/>
+
+### AWS Summit India
+
+Certificate of Attendance
+
+2026
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ### 🚀 DevOps
 
